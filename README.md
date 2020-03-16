@@ -7,6 +7,6 @@
 ### I am using chrome so the link is for chrome
 https://sites.google.com/a/chromium.org/chromedriver/downloads
 
-# Make sure it’s in your PATH, e. g., 
+# Make sure to move the chromedriver downloaded in your PATH, e. g., 
 ### place it in /usr/bin or /usr/local/bin.
 
